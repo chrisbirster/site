@@ -13,7 +13,7 @@ I can be reached at me@chris.website my public key is [here](/pub.gpg)
 
 ## ## Social Media
 [twitter](https://twitter.com/three_roundx)  
-[mastodon](@threeround@fosstodon.org)
-[github](https://github.com/chrisbirster)
-[gitlab](https://gitlab.com/vortexlabsio)
-[steam](https://steamcommunity.com/id/threeround)
+[mastodon](@threeround@fosstodon.org)  
+[github](https://github.com/chrisbirster)  
+[gitlab](https://gitlab.com/vortexlabsio)  
+[steam](https://steamcommunity.com/id/threeround)  
