@@ -10,7 +10,7 @@ categories = ["programming", "misc.",]
 [extra]
 +++
 
-# hello
+# # Hello
 
 I've been procrastinating creating this blog but it's crucial so that I have a place that I can con consolidate my notes. I probably will be the only person to read this but I hope it to be of value to myself and whoever else sees it. 
 
@@ -22,7 +22,7 @@ It was amazing to see the UI (black screen with orange text). I was surprized to
 
 All in all, I liked the UI. The text was easy to see in DOS which made me wonder why Microsoft went to Black and WHite for CMD or Blue and white-ish for Powershell. I picked an orange and black theme for now for the new beginnigs of this blog. 
 
-# projects
+# # Projects
 
 I wanted to document all the projects I have going on at the moment or what I want to work on in the future. 
 
@@ -42,7 +42,7 @@ I've been studying Rust on and off for the past year. I mostly write in Go and P
 
 I think right now I wanted to focus on my "Rust for the rest of us" series on here. Here's a taste of what to come, the obligatory starting off hello world program. 
 
-# A quick demo
+## ## A quick demo
 
 ```rs
 fn main() {
